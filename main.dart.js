@@ -65491,7 +65491,7 @@ s.toString
 this.ap(new A.a5R(this,s))},
 a0t(a){this.ap(new A.a5S(this,a))},
 J(a){var s=this,r=null,q=A.aY(a,r,t.w).w.a,p=q.b/2,o=q.a/5
-return A.uK(A.hU(B.aW,A.c([A.au(r,A.Uc(B.cC,new A.hl("images/myprofile.jpeg",r,r),r),B.i,B.C,r,r,r,p,r,r,r,r,o),A.au(r,r,B.i,s.d,r,r,r,p,r,r,r,r,o)],t.p),B.aT),B.bH,s.gXw(),s.gXy(),s.ga0s())}}
+return A.uK(A.hU(B.aW,A.c([A.au(r,A.Uc(B.cC,new A.hl("assets/images/myprofile.jpeg",r,r),r),B.i,B.C,r,r,r,p,r,r,r,r,o),A.au(r,r,B.i,s.d,r,r,r,p,r,r,r,r,o)],t.p),B.aT),B.bH,s.gXw(),s.gXy(),s.ga0s())}}
 A.a5Q.prototype={
 $0(){++this.a.e},
 $S:0}
@@ -65519,7 +65519,7 @@ r=A.az(m,s*0.07,m)
 q=j.y
 p=s*0.6
 o=i*0.6
-return A.ah2(A.au(m,A.cb(A.c([l,r,A.jb(B.aN,A.c([new A.bd(u.x,16,q,0.75,B.a1,m),new A.bd(u.X,16,q,0.75,B.a1,m),new A.bd(u.L,16,q,0.75,B.a1,m)],g),0,0),A.az(m,s*0.02,m),A.au(B.x,A.cP(A.c([A.f1(A.cb(A.c([new A.bd("Frontend & Mobile",16,h,0.75,B.q,m),n.bV(a,"Dart"),n.bV(a,"Flutter"),n.bV(a,"HTML/CSS"),A.az(m,10,m),new A.bd("Core and Programming",16,h,0.75,B.q,m),n.bV(a,"Java, C/C++."),n.bV(a,"Data Structures and Algorithms"),n.bV(a,"Python"),n.bV(a,"Machine Learning")],g),B.af,B.y),m,B.R,m,m,m,B.ax),A.az(m,m,i*0.001),A.f1(A.au(m,A.f1(A.cb(A.c([new A.bd("Backend & database",16,h,0.75,B.q,m),n.bV(a,"Firebase/Firestore"),n.bV(a,"NodeJs(learning phase)"),n.bV(a,"API"),n.bV(a,"MYSQL"),A.az(m,10,m),new A.bd("Tools",16,h,0.75,B.q,m),n.bV(a,"Git - Github"),n.bV(a,"VS Code/Android Studio")],g),B.af,B.y),m,B.R,m,m,m,B.ap),B.i,m,m,m,m,m,m,m,m,m,m),m,B.R,m,m,m,B.ax)],g),B.af,B.bU,B.V),B.i,m,m,m,m,m,m,m,m,m,i),A.az(m,s*0.08,m),A.eJ(A.au(m,A.hU(B.aW,A.c([A.iV(m,A.jH(A.au(m,m,B.i,j.a,m,m,m,p,new A.aH(2.75,2.75,2.75,2.75),m,m,m,i*0.69),h,m,m),m,m,50,20,50,m),A.au(m,A.Uc(B.cC,new A.hl("images/myprofile.jpeg",m,m),m),B.i,m,m,m,m,p,m,m,m,m,o),A.au(m,m,B.i,A.ab(B.c.ag(127.5),h.n()>>>16&255,h.n()>>>8&255,h.n()&255),m,m,m,p,m,m,m,m,o)],g),B.aT),B.i,m,m,m,m,s*0.7,m,m,m,m,i*0.7),m,m)],g),B.v,B.y),B.i,m,m,m,m,m,m,m,m,m,i),B.cC)}}
+return A.ah2(A.au(m,A.cb(A.c([l,r,A.jb(B.aN,A.c([new A.bd(u.x,16,q,0.75,B.a1,m),new A.bd(u.X,16,q,0.75,B.a1,m),new A.bd(u.L,16,q,0.75,B.a1,m)],g),0,0),A.az(m,s*0.02,m),A.au(B.x,A.cP(A.c([A.f1(A.cb(A.c([new A.bd("Frontend & Mobile",16,h,0.75,B.q,m),n.bV(a,"Dart"),n.bV(a,"Flutter"),n.bV(a,"HTML/CSS"),A.az(m,10,m),new A.bd("Core and Programming",16,h,0.75,B.q,m),n.bV(a,"Java, C/C++."),n.bV(a,"Data Structures and Algorithms"),n.bV(a,"Python"),n.bV(a,"Machine Learning")],g),B.af,B.y),m,B.R,m,m,m,B.ax),A.az(m,m,i*0.001),A.f1(A.au(m,A.f1(A.cb(A.c([new A.bd("Backend & database",16,h,0.75,B.q,m),n.bV(a,"Firebase/Firestore"),n.bV(a,"NodeJs(learning phase)"),n.bV(a,"API"),n.bV(a,"MYSQL"),A.az(m,10,m),new A.bd("Tools",16,h,0.75,B.q,m),n.bV(a,"Git - Github"),n.bV(a,"VS Code/Android Studio")],g),B.af,B.y),m,B.R,m,m,m,B.ap),B.i,m,m,m,m,m,m,m,m,m,m),m,B.R,m,m,m,B.ax)],g),B.af,B.bU,B.V),B.i,m,m,m,m,m,m,m,m,m,i),A.az(m,s*0.08,m),A.eJ(A.au(m,A.hU(B.aW,A.c([A.iV(m,A.jH(A.au(m,m,B.i,j.a,m,m,m,p,new A.aH(2.75,2.75,2.75,2.75),m,m,m,i*0.69),h,m,m),m,m,50,20,50,m),A.au(m,A.Uc(B.cC,new A.hl("assets/images/myprofile.jpeg",m,m),m),B.i,m,m,m,m,p,m,m,m,m,o),A.au(m,m,B.i,A.ab(B.c.ag(127.5),h.n()>>>16&255,h.n()>>>8&255,h.n()&255),m,m,m,p,m,m,m,m,o)],g),B.aT),B.i,m,m,m,m,s*0.7,m,m,m,m,i*0.7),m,m)],g),B.v,B.y),B.i,m,m,m,m,m,m,m,m,m,i),B.cC)}}
 A.tU.prototype={
 ah(){return new A.Jm()}}
 A.Jm.prototype={
@@ -65563,7 +65563,7 @@ j=A.au(b3,new A.ba(B.b8,A.cP(A.c([n,new A.Gw(b3),l,new A.ba(B.kn,A.jH(A.au(B.x,A
 h=p-82
 l=c4.b
 n=c4.c
-l=A.au(b3,A.cb(A.c([new A.cr(A.dC(l,b3,A.cX(B.eb,b3,b3),16,b3,new A.a73(b2),b3,b3,b3),"Github",0,35,b3),new A.cr(A.dC(l,b3,A.Ud("images/leetcode.png",l,16,16),16,b3,new A.a75(b2),b3,b3,b3),"Leetcode",0,35,b3),new A.cr(A.dC(l,b3,A.Ud("images/codechef.png",l,16,16),16,b3,new A.a76(b2),b3,b3,b3),"Codechef",0,35,b3),new A.cr(A.dC(l,b3,A.cX(B.kD,b3,b3),16,b3,new A.a77(b2),b3,b3,b3),"LinkedIn",0,35,b3),new A.cr(A.dC(l,b3,A.eR(B.kH,b3,b3,b3),16,b3,new A.a78(b2),b3,b3,b3),b4,0,35,b3),new A.cr(A.dC(l,b3,A.eR(B.ht,b3,b3,b3),16,b3,new A.a79(b2),b3,b3,b3),"E-mail",0,35,b3),new A.ba(B.km,A.au(b3,b3,B.i,A.ab(102,n.n()>>>16&255,n.n()>>>8&255,n.n()&255),b3,b3,b3,i,b3,b3,b3,b3,2),b3)],m),B.v,B.df),B.i,b3,b3,b3,b3,h,b3,b3,b3,b3,o*0.09)
+l=A.au(b3,A.cb(A.c([new A.cr(A.dC(l,b3,A.cX(B.eb,b3,b3),16,b3,new A.a73(b2),b3,b3,b3),"Github",0,35,b3),new A.cr(A.dC(l,b3,A.Ud("assets/images/leetcode.png",l,16,16),16,b3,new A.a75(b2),b3,b3,b3),"Leetcode",0,35,b3),new A.cr(A.dC(l,b3,A.Ud("assets/images/codechef.png",l,16,16),16,b3,new A.a76(b2),b3,b3,b3),"Codechef",0,35,b3),new A.cr(A.dC(l,b3,A.cX(B.kD,b3,b3),16,b3,new A.a77(b2),b3,b3,b3),"LinkedIn",0,35,b3),new A.cr(A.dC(l,b3,A.eR(B.kH,b3,b3,b3),16,b3,new A.a78(b2),b3,b3,b3),b4,0,35,b3),new A.cr(A.dC(l,b3,A.eR(B.ht,b3,b3,b3),16,b3,new A.a79(b2),b3,b3,b3),"E-mail",0,35,b3),new A.ba(B.km,A.au(b3,b3,B.i,A.ab(102,n.n()>>>16&255,n.n()>>>8&255,n.n()&255),b3,b3,b3,i,b3,b3,b3,b3,2),b3)],m),B.v,B.df),B.i,b3,b3,b3,b3,h,b3,b3,b3,b3,o*0.09)
 g=b2.e
 g===$&&A.a()
 f=A.az(b3,p*0.06,b3)
@@ -65591,7 +65591,7 @@ a4=p*0.1
 a3=A.az(b3,a4,b3)
 a9=A.lp(new A.xf(b3),a9,1,new A.cg(1,a5))
 a4=A.az(b3,a4,b3)
-a0=A.lp(A.cb(A.c([A.cP(A.c([new A.bd("03.",20,c4.r,0,B.N,b3),A.az(b3,b3,12),new A.bd("Some Projects I've Built",26,c,0,B.N,b3),A.az(b3,b3,o*0.01),A.au(b3,b3,B.i,c4.x,b3,b3,b3,1.1,b3,b3,b3,b3,o/4)],m),B.v,B.y,B.V),A.az(b3,a0,b3),A.iu("images/whatsapp.jpg",new A.a7b(b2),u.F,"WhatsaApp Clone",b7,b8,b9),A.iu("images/myAI.jpg",new A.a6U(b2),u.A,"My AI",b8,b7,"Open AI"),A.iu("images/movieapp.jpg",new A.a6V(b2),u.R,"Movie App",c0,"TMDb API","Shared Preferences"),A.iu("images/myfinance.jpg",new A.a6W(b2),u.Q,"MyFinance App",b9,"Hive",c1),A.iu("images/wallpaperapp.jpg",new A.a6X(b2),u.W,"Wallpaper App",c0,"Pexels API","PhotoView"),A.iu("images/bmiapp.jpg",new A.a6Y(b2),u.n,"BMI Tracker","Speech-to-Text","FL Chart",c2),A.iu("images/signuplogin.jpg",new A.a6Z(b2),u.a,"Firebase Auth & Firestore Integration","Flutter & Dart ","Firebase Auth","Cloud Firestore"),A.iu("images/news_app.gif",new A.a7_(b2),u.C,"News App",c0,c1,"http & WebView"),A.iu("images/currencyapp.gif",new A.a70(b2),u.u,"Currency Converter",c0,"http","API"),A.iu("images/todoApp.jpg",new A.a71(b2),u._,"Todo App",b7,c2,b8)],m),B.v,B.y),b2.e,2,new A.cg(2,a5))
+a0=A.lp(A.cb(A.c([A.cP(A.c([new A.bd("03.",20,c4.r,0,B.N,b3),A.az(b3,b3,12),new A.bd("Some Projects I've Built",26,c,0,B.N,b3),A.az(b3,b3,o*0.01),A.au(b3,b3,B.i,c4.x,b3,b3,b3,1.1,b3,b3,b3,b3,o/4)],m),B.v,B.y,B.V),A.az(b3,a0,b3),A.iu("assets/images/whatsapp.jpg",new A.a7b(b2),u.F,"WhatsaApp Clone",b7,b8,b9),A.iu("assets/images/myAI.jpg",new A.a6U(b2),u.A,"My AI",b8,b7,"Open AI"),A.iu("assets/images/movieapp.jpg",new A.a6V(b2),u.R,"Movie App",c0,"TMDb API","Shared Preferences"),A.iu("assets/images/myfinance.jpg",new A.a6W(b2),u.Q,"MyFinance App",b9,"Hive",c1),A.iu("assets/images/wallpaperapp.jpg",new A.a6X(b2),u.W,"Wallpaper App",c0,"Pexels API","PhotoView"),A.iu("assets/images/bmiapp.jpg",new A.a6Y(b2),u.n,"BMI Tracker","Speech-to-Text","FL Chart",c2),A.iu("assets/images/signuplogin.jpg",new A.a6Z(b2),u.a,"Firebase Auth & Firestore Integration","Flutter & Dart ","Firebase Auth","Cloud Firestore"),A.iu("assets/images/news_app.gif",new A.a7_(b2),u.C,"News App",c0,c1,"http & WebView"),A.iu("assets/images/currencyapp.gif",new A.a70(b2),u.u,"Currency Converter",c0,"http","API"),A.iu("assets/images/todoApp.jpg",new A.a71(b2),u._,"Todo App",b7,c2,b8)],m),B.v,B.y),b2.e,2,new A.cg(2,a5))
 c=A.aY(c5,b3,s).w
 a1=A.az(b3,16,b3)
 c4=c4.z
@@ -65734,7 +65734,7 @@ q=A.aY(e4,d2,r).w.a
 p=e3.a
 o=e3.w
 n=A.cq(50)
-n=A.el(d2,A.au(d2,d2,B.i,d2,d2,new A.bJ(d2,A.app(B.xd,new A.hl("images/myprofilesmall.png",d2,d2),d2),d2,n,d2,d2,B.Q),d2,d2,d2,d2,d2,d2,d2))
+n=A.el(d2,A.au(d2,d2,B.i,d2,d2,new A.bJ(d2,A.app(B.xd,new A.hl("assets/images/myprofilesmall.png",d2,d2),d2),d2,n,d2,d2,B.Q),d2,d2,d2,d2,d2,d2,d2))
 m=A.hx(!1,d2,!0,new A.bd("miss.smitapatel04@gmail.com",15,p,1.4,B.N,d2),d2,!0,!1,d2,d2,d2,d2,d2,d2,d2,d2,d2,new A.a8a(s),d2,d2,d2,d2)
 l=A.Vd(A.eR(B.Bg,o,d2,d2),new A.a8b(d1,e4),new A.bd("About",17,o,0,B.q,d2))
 k=A.Vd(A.eR(B.Bi,o,d2,d2),new A.a8c(d1,e4),new A.bd("Experience",17,o,0,B.q,d2))
@@ -65774,16 +65774,16 @@ b0=q.a
 b1=A.lp(A.cb(A.c([A.cP(A.c([new A.bd("03.",20,e3.r,0,B.N,d2),A.az(d2,d2,12),new A.bd("Some Things I've Built",26,o,0,B.N,d2),A.az(d2,d2,A.aY(e4,d2,r).w.a.a*0.01),A.au(d2,d2,B.i,e3.x,d2,d2,d2,1.1,d2,d2,d2,d2,b0*0.04)],d),B.v,B.y,B.V)],d),B.v,B.y),d1.d,2,new A.cg(2,a8))
 b2=g*0.07
 b3=A.az(d2,b2,d2)
-b4=A.iJ("images/whatsapp.jpg",new A.a8z(s),u.F,"WhatsaApp Clone",d5,d6,d7)
-b5=A.iJ("images/myAI.jpg",new A.a8A(s),u.A,"My AI",d6,d5,"Open AI")
-b6=A.iJ("images/movieapp.jpg",new A.a8d(s),u.R,"Movie App",d8,"TMDb API","Shared Preferences")
-b7=A.iJ("images/myfinance.jpg",new A.a8e(s),u.Q,"MyFinance App",d7,"Hive",d9)
-b8=A.iJ("images/wallpaperapp.jpg",new A.a8f(s),u.W,"Wallpaper App",d8,"Pexels API","PhotoView")
-b9=A.iJ("images/bmiapp.jpg",new A.a8g(s),u.n,"BMI Tracker","Speech-to-Text","FL Chart",e0)
-c0=A.iJ("images/signuplogin.jpg",new A.a8h(s),u.a,"Firebase Auth & Firestore Integration","Flutter & Dart ","Firebase Auth","Cloud Firestore")
-c1=A.iJ("images/news_app.gif",new A.a8i(s),u.C,"News App",d8,d9,"http & WebView")
-c2=A.iJ("images/currencyapp.gif",new A.a8j(s),u.u,"Currency Converter",d8,"http","API")
-c3=A.iJ("images/todoApp.jpg",new A.a8k(s),u._,"Todo App",d5,e0,d6)
+b4=A.iJ("assets/images/whatsapp.jpg",new A.a8z(s),u.F,"WhatsaApp Clone",d5,d6,d7)
+b5=A.iJ("assets/images/myAI.jpg",new A.a8A(s),u.A,"My AI",d6,d5,"Open AI")
+b6=A.iJ("assets/images/movieapp.jpg",new A.a8d(s),u.R,"Movie App",d8,"TMDb API","Shared Preferences")
+b7=A.iJ("assets/images/myfinance.jpg",new A.a8e(s),u.Q,"MyFinance App",d7,"Hive",d9)
+b8=A.iJ("assets/images/wallpaperapp.jpg",new A.a8f(s),u.W,"Wallpaper App",d8,"Pexels API","PhotoView")
+b9=A.iJ("assets/images/bmiapp.jpg",new A.a8g(s),u.n,"BMI Tracker","Speech-to-Text","FL Chart",e0)
+c0=A.iJ("assets/images/signuplogin.jpg",new A.a8h(s),u.a,"Firebase Auth & Firestore Integration","Flutter & Dart ","Firebase Auth","Cloud Firestore")
+c1=A.iJ("assets/images/news_app.gif",new A.a8i(s),u.C,"News App",d8,d9,"http & WebView")
+c2=A.iJ("assets/images/currencyapp.gif",new A.a8j(s),u.u,"Currency Converter",d8,"http","API")
+c3=A.iJ("assets/images/todoApp.jpg",new A.a8k(s),u._,"Todo App",d5,e0,d6)
 k=A.az(d2,k,d2)
 c4=A.az(d2,16,d2)
 e3=e3.z
@@ -65800,7 +65800,7 @@ c9=A.cq(6)
 d0=A.cq(6)
 a8=A.lp(A.ah2(A.au(B.x,A.cb(A.c([new A.bd("04. What's Next?",16,i,3,B.q,d2),c4,new A.bd(d4,42,e3,3,B.N,d2),b,a2,c5,A.cP(A.c([new A.cr(c6,d3,-70,-20,d2),c8,new A.cr(A.hx(!1,d2,!0,A.jH(A.au(B.x,new A.ba(B.aY,A.bI(e1,d2,d2,d2,A.bm(d2,d2,e,d2,d2,d2,d2,d2,d2,d2,d2,d2,d2,d2,d2,d2,d2,!0,d2,d2,d2,d2,d2,d2,d2,d2),d2),d2),B.i,d2,d2,new A.bJ(p,d2,d2,d0,d2,d2,B.Q),d2,g,new A.aH(0.85,0.85,0.85,0.85),d2,d2,d2,c7),e,4,new A.bU(c9,B.o)),d2,!0,!1,d2,d2,d2,d2,d2,d2,d2,d2,d2,new A.a8m(s),d2,d2,d2,d2),e1,-70,-20,d2)],d),B.v,B.dg,B.V)],d),B.v,B.dg),B.i,d2,d2,d2,d2,d2,d2,d2,d2,d2,b0),B.cC),d1.d,3,new A.cg(3,a8))
 b0=A.az(d2,b2,d2)
-c9=A.cP(A.c([new A.cr(A.dC(d2,d2,A.eR(B.eb,e3,d2,15),d2,d2,new A.a8o(s),d2,d2,d2),"Github",-25,-15,d2),new A.cr(A.dC(e3,d2,A.Ud("images/leetcode.png",e3,15,15),15,d2,new A.a8p(s),d2,d2,d2),"Leetcode",-25,-15,d2),new A.cr(A.dC(e3,d2,A.Ud("images/codechef.png",e3,15,15),15,d2,new A.a8q(s),d2,d2,d2),"Codechef",-25,-15,d2),new A.cr(A.dC(d2,d2,A.eR(B.kD,e3,d2,15),d2,d2,new A.a8r(s),d2,d2,d2),"LinkedIn",-25,-15,d2),new A.cr(A.dC(d2,d2,A.eR(B.kH,e3,d2,15),d2,d2,new A.a8s(s),d2,d2,d2),e1,-25,-15,d2),new A.cr(A.dC(d2,d2,A.eR(B.ht,e3,d2,15),d2,d2,new A.a8t(s),d2,d2,d2),"E-mail",-25,-15,d2)],d),B.v,B.bU,B.V)
+c9=A.cP(A.c([new A.cr(A.dC(d2,d2,A.eR(B.eb,e3,d2,15),d2,d2,new A.a8o(s),d2,d2,d2),"Github",-25,-15,d2),new A.cr(A.dC(e3,d2,A.Ud("assets/images/leetcode.png",e3,15,15),15,d2,new A.a8p(s),d2,d2,d2),"Leetcode",-25,-15,d2),new A.cr(A.dC(e3,d2,A.Ud("assets/images/codechef.png",e3,15,15),15,d2,new A.a8q(s),d2,d2,d2),"Codechef",-25,-15,d2),new A.cr(A.dC(d2,d2,A.eR(B.kD,e3,d2,15),d2,d2,new A.a8r(s),d2,d2,d2),"LinkedIn",-25,-15,d2),new A.cr(A.dC(d2,d2,A.eR(B.kH,e3,d2,15),d2,d2,new A.a8s(s),d2,d2,d2),e1,-25,-15,d2),new A.cr(A.dC(d2,d2,A.eR(B.ht,e3,d2,15),d2,d2,new A.a8t(s),d2,d2,d2),"E-mail",-25,-15,d2)],d),B.v,B.bU,B.V)
 b2=A.az(d2,b2,d2)
 c7=A.aY(e4,d2,r).w
 r=A.aY(e4,d2,r).w
