@@ -66017,8 +66017,8 @@ o.push(A.az(q,6,q))
 o.push(A.bI(r.e,q,q,q,A.bm(q,q,A.ab(B.c.ag(178.5),p.n()>>>16&255,p.n()>>>8&255,p.n()&255),q,q,q,q,q,q,q,q,12,q,q,B.N,q,q,!0,q,q,q,q,q,q,q,q),q))
 return A.cb(o,B.af,B.y)}}
 A.Hh.prototype={
-J(a){var s="Flutter Developer Intern",r="Work from home",q=null
-return A.cb(A.c([new A.dM(s,u.P,"April 2025 - Present","AigetAi Private Limited",r,q),new A.dM(s,u.E,"May 2025 - July 2025","Miracuves",r,q),new A.dM("App Development Trainee",u.G,"April 2025 - July 2025","Reto India",r,q),new A.dM("Flutter + Dart Development Project",u.b,"Sept - 2023 to Present",q,q,q),new A.dM(u.f,u.Y,"2022 - Present",q,q,q),new A.dM("Senior Seconadary Education",u.h,"Oct - 2019 to Nov - 2020",q,q,q),new A.dM("Seconadary Education",u.s,"Sep 2020 - Oct 2020",q,q,q)],t.p),B.af,B.bU)}}
+J(a){var s="Flutter Developer Intern",r="Work from home",q=null,p="May 2025 - July 2025"
+return A.cb(A.c([new A.dM(s,u.P,"April 2025 - Present","AigetAi Private Limited",r,q),new A.dM(s,u.E,p,"Miracuves Private Limited",r,q),new A.dM("App Development Trainee",u.G,p,"Reto India",r,q),new A.dM("Flutter + Dart Development Project",u.b,"Sept - 2023 to Present",q,q,q),new A.dM(u.f,u.Y,"2022 - Present",q,q,q),new A.dM("Senior Seconadary Education",u.h,"Oct - 2019 to Nov - 2020",q,q,q),new A.dM("Seconadary Education",u.s,"Sep 2020 - Oct 2020",q,q,q)],t.p),B.af,B.bU)}}
 A.a23.prototype={}
 A.aab.prototype={
 $1(a){return!1},
