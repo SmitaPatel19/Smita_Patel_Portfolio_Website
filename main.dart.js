@@ -66003,8 +66003,8 @@ r.push(A.au(n,A.bI(q,n,n,n,A.bm(n,n,j,n,n,n,n,n,n,n,n,14,n,n,n,n,n,!0,n,1.5,n,n,
 g=A.cX(B.eb,n,24)
 return A.au(n,A.cb(A.c([new A.ba(B.AV,i,n),B.Jp,e,B.Jq,h,B.Jr,new A.ba(B.AS,A.cP(A.c([new A.jT(1,B.e7,j,n),new A.cr(A.dC(A.ab(B.c.ag(76.5),f.n()>>>16&255,f.n()>>>8&255,f.n()&255),n,g,n,n,o.x,n,n,n),"Github Link",0,35,n)],s),B.v,B.q_,B.V),n)],s),B.af,B.y),B.i,n,n,n,n,n,B.AO,n,n,n,k*0.9)}}
 A.E5.prototype={
-J(a){var s="Flutter Developer Intern",r="Work from home",q=null
-return A.cb(A.c([new A.ba(B.AP,new A.dM(s,u.P,"April 2025 - Present","AigetAi Private Limited",r,q),q),new A.ba(B.cW,new A.dM(s,u.E,"May 2025 - July 2025","Miracuves",r,q),q),new A.ba(B.cW,new A.dM("App Development Trainee",u.G,"April 2025 - July 2025","Reto India",r,q),q),new A.ba(B.cW,new A.dM("Flutter + Dart Development Project",u.b,"Sept - 2023 to Present",q,q,q),q),new A.ba(B.cW,new A.dM(u.f,u.Y,"2022 - Present",q,q,q),q),new A.ba(B.cW,new A.dM("Senior Seconadary Education",u.h,"Oct - 2019 to Nov - 2020",q,q,q),q),new A.ba(B.AL,new A.dM("Seconadary Education",u.s,"Sep 2020 - Oct 2020",q,q,q),q)],t.p),B.af,B.bU)}}
+J(a){var s="Flutter Developer Intern",r="Work from home",q=null,p="May 2025 - July 2025"
+return A.cb(A.c([new A.ba(B.AP,new A.dM(s,u.P,"April 2025 - Present","AigetAi Private Limited",r,q),q),new A.ba(B.cW,new A.dM(s,u.E,p,"Miracuves Private Limited",r,q),q),new A.ba(B.cW,new A.dM("App Development Trainee",u.G,p,"Reto India",r,q),q),new A.ba(B.cW,new A.dM("Flutter + Dart Development Project",u.b,"Sept - 2023 to Present",q,q,q),q),new A.ba(B.cW,new A.dM(u.f,u.Y,"2022 - Present",q,q,q),q),new A.ba(B.cW,new A.dM("Senior Seconadary Education",u.h,"Oct - 2019 to Nov - 2020",q,q,q),q),new A.ba(B.AL,new A.dM("Seconadary Education",u.s,"Sep 2020 - Oct 2020",q,q,q),q)],t.p),B.af,B.bU)}}
 A.dM.prototype={
 J(a){var s,r=this,q=null,p=t.l.a(A.V(a).c.i(0,A.b3(t.v))).w,o=A.c([A.bI(r.c,q,q,q,A.bm(q,q,p,q,q,q,q,q,q,q,q,22,q,q,B.N,q,q,!0,q,q,q,q,q,q,q,q),q),A.az(q,4,q)],t.p),n=r.f,m=n==null
 if(!m||r.r!=null){if(m)n=""
